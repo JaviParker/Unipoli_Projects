@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Unipoli_Web_Projects/static/css/main.b2546768.chunk.css",
-    "main.js": "/Unipoli_Web_Projects/static/js/main.f977810e.chunk.js",
-    "main.js.map": "/Unipoli_Web_Projects/static/js/main.f977810e.chunk.js.map",
-    "runtime-main.js": "/Unipoli_Web_Projects/static/js/runtime-main.a5f90cd6.js",
-    "runtime-main.js.map": "/Unipoli_Web_Projects/static/js/runtime-main.a5f90cd6.js.map",
-    "static/js/2.4db61151.chunk.js": "/Unipoli_Web_Projects/static/js/2.4db61151.chunk.js",
-    "static/js/2.4db61151.chunk.js.map": "/Unipoli_Web_Projects/static/js/2.4db61151.chunk.js.map",
-    "static/js/3.7854cfcf.chunk.js": "/Unipoli_Web_Projects/static/js/3.7854cfcf.chunk.js",
-    "static/js/3.7854cfcf.chunk.js.map": "/Unipoli_Web_Projects/static/js/3.7854cfcf.chunk.js.map",
-    "index.html": "/Unipoli_Web_Projects/index.html",
-    "static/css/main.b2546768.chunk.css.map": "/Unipoli_Web_Projects/static/css/main.b2546768.chunk.css.map",
-    "static/js/2.4db61151.chunk.js.LICENSE.txt": "/Unipoli_Web_Projects/static/js/2.4db61151.chunk.js.LICENSE.txt",
-    "static/media/home.css": "/Unipoli_Web_Projects/static/media/purple.07f54bcf.png",
-    "static/media/happy.css": "/Unipoli_Web_Projects/static/media/browsehappy-sprite.237c1d7d.png"
+    "main.css": "/Unipoli_Projects/static/css/main.3689fc3b.chunk.css",
+    "main.js": "/Unipoli_Projects/static/js/main.3b4bc889.chunk.js",
+    "main.js.map": "/Unipoli_Projects/static/js/main.3b4bc889.chunk.js.map",
+    "runtime-main.js": "/Unipoli_Projects/static/js/runtime-main.0702f9a6.js",
+    "runtime-main.js.map": "/Unipoli_Projects/static/js/runtime-main.0702f9a6.js.map",
+    "static/js/2.4db61151.chunk.js": "/Unipoli_Projects/static/js/2.4db61151.chunk.js",
+    "static/js/2.4db61151.chunk.js.map": "/Unipoli_Projects/static/js/2.4db61151.chunk.js.map",
+    "static/js/3.7854cfcf.chunk.js": "/Unipoli_Projects/static/js/3.7854cfcf.chunk.js",
+    "static/js/3.7854cfcf.chunk.js.map": "/Unipoli_Projects/static/js/3.7854cfcf.chunk.js.map",
+    "index.html": "/Unipoli_Projects/index.html",
+    "static/css/main.3689fc3b.chunk.css.map": "/Unipoli_Projects/static/css/main.3689fc3b.chunk.css.map",
+    "static/js/2.4db61151.chunk.js.LICENSE.txt": "/Unipoli_Projects/static/js/2.4db61151.chunk.js.LICENSE.txt",
+    "static/media/home.css": "/Unipoli_Projects/static/media/purple.07f54bcf.png",
+    "static/media/happy.css": "/Unipoli_Projects/static/media/browsehappy-sprite.237c1d7d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5f90cd6.js",
+    "static/js/runtime-main.0702f9a6.js",
     "static/js/2.4db61151.chunk.js",
-    "static/css/main.b2546768.chunk.css",
-    "static/js/main.f977810e.chunk.js"
+    "static/css/main.3689fc3b.chunk.css",
+    "static/js/main.3b4bc889.chunk.js"
   ]
 }
