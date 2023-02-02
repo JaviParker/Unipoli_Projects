@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Unipoli_Projects/static/css/main.66440424.chunk.css",
-    "main.js": "/Unipoli_Projects/static/js/main.09090038.chunk.js",
-    "main.js.map": "/Unipoli_Projects/static/js/main.09090038.chunk.js.map",
+    "main.js": "/Unipoli_Projects/static/js/main.826ab4c1.chunk.js",
+    "main.js.map": "/Unipoli_Projects/static/js/main.826ab4c1.chunk.js.map",
     "runtime-main.js": "/Unipoli_Projects/static/js/runtime-main.166c01a1.js",
     "runtime-main.js.map": "/Unipoli_Projects/static/js/runtime-main.166c01a1.js.map",
     "static/js/2.4b45074f.chunk.js": "/Unipoli_Projects/static/js/2.4b45074f.chunk.js",
@@ -20,6 +20,6 @@
     "static/js/runtime-main.166c01a1.js",
     "static/js/2.4b45074f.chunk.js",
     "static/css/main.66440424.chunk.css",
-    "static/js/main.09090038.chunk.js"
+    "static/js/main.826ab4c1.chunk.js"
   ]
 }
